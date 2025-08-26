@@ -1,0 +1,15 @@
+/home/jamila/job_assessments/Tracker/src/Tracker.API/bin/Debug/net8.0/Tracker.API
+/home/jamila/job_assessments/Tracker/src/Tracker.API/bin/Debug/net8.0/Tracker.API.deps.json
+/home/jamila/job_assessments/Tracker/src/Tracker.API/bin/Debug/net8.0/Tracker.API.runtimeconfig.json
+/home/jamila/job_assessments/Tracker/src/Tracker.API/bin/Debug/net8.0/Tracker.API.dll
+/home/jamila/job_assessments/Tracker/src/Tracker.API/bin/Debug/net8.0/Tracker.API.pdb
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.AssemblyInfoInputs.cache
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.AssemblyInfo.cs
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.csproj.CoreCompileInputs.cache
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.sourcelink.json
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.dll
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/refint/Tracker.API.dll
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.pdb
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/Tracker.API.genruntimeconfig.cache
+/home/jamila/job_assessments/Tracker/src/Tracker.API/obj/Debug/net8.0/ref/Tracker.API.dll
